@@ -64,4 +64,5 @@ li:first-letter {
   position: relative;
   font-size: 16px;
   top: -32px;
+  color: #48484a;
 }
