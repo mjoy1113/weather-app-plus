@@ -89,3 +89,14 @@ li:first-letter {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
+
+.coded-by {
+  font-family: monospace;
+  font-size: 14px;
+  text-align: center;
+}
+
+.btn {
+  background-color: #ec6e4c;
+  border-color: #ec6e4c;
+}
